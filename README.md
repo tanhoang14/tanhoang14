@@ -1,7 +1,7 @@
 <img src="https://github.com/tanhoang14/tanhoang14/blob/master/svg.svg"/>
 
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
+<p><em>A bachelor student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science. 😊</br>
 </em></p>
 
 
