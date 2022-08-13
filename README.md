@@ -1,4 +1,8 @@
-<img src="https://github.com/tanhoang14/tanhoang14/blob/master/svg.svg"/>
+### Hi there 👋<h2> I'm Tan</h2>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> 👨🏻•💻 About Me </h3>
 
 
 <p><em>A bachelor student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science. 😊</br>
