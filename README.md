@@ -12,10 +12,10 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript,  HTML, CSS, Python, Java, C++],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
+         js: ["React"],
          css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
