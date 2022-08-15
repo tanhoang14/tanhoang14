@@ -16,7 +16,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: ["", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         css: ["SCSS", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
          java: ["Spring"],
