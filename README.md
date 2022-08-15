@@ -21,10 +21,8 @@ const aboutMe = {
       backEnd: {
          java: ["Spring"],
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
+      databases: ["MongoDB"],
       mobile: ["Android", "IOS"]
    },
    currentOccupation: ["last year student, open for job opportunities"],
