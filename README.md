@@ -19,7 +19,7 @@ const aboutMe = {
          css: ["SCSS", "TailWind", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
-         java: ["Spring "],
+         java: ["Spring"],
          js: ["Node", "Express"],
       },
       databases: ["MongoDB"],
