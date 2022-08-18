@@ -23,7 +23,7 @@ const aboutMe = {
          js: ["Node", "Express"],
       },
       databases: ["MongoDB"],
-      mobile: ["Android", "IOS"]
+      mobile: ["Android", "IOS"],
       other: ["Git/Github", "Agile", "npm", "Figma"]
    },
    currentOccupation: ["last year student, open for job opportunities"],
