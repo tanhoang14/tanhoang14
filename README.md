@@ -20,7 +20,7 @@ const aboutMe = {
       },
       backEnd: {
          java: ["Spring"],
-         js: ["Node", "Express],
+         js: ["Node", "Express"],
       },
       databases: ["MongoDB"],
       mobile: ["Android", "IOS"],
