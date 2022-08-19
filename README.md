@@ -24,7 +24,7 @@ const aboutMe = {
       },
       databases: ["MongoDB"],
       mobile: ["Android", "IOS"],
-      other: ["Git/Github", "Agile", "npm", "Figma"]
+      other: ["Git/Github", "Agile", "npm", "Figma","Adobe XD"]
    },
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
