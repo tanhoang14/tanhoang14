@@ -5,7 +5,7 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 
-<p><em>A bachelor student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science. 😊</br>
+<p><em>A bachelor student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science.. 😊</br>
 </em></p>
 
 
