@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Tan</h2>
 
-<img align='right' src="https://https://media.giphy.com/media/L3ESyQ5pFUlHxdrMwh/giphy.gif" width="230">
+<img align='right' src="https://https://media.giphy.com/media/L3ESyQ5pFUlHxdrMwh/giphy.gif" width="230" >
 
 <h3> 👨🏻•💻 About Me </h3>
 
