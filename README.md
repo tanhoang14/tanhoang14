@@ -31,7 +31,7 @@ const aboutMe = {
 };
 ```
 </br></br>
-<h2> :tongue: Top langs :tongue:</h2 >
+<h2> :tongue: Top langs :tongue:</h2>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanhoang14&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 <h2>💻 Some stats 💻</h2>
