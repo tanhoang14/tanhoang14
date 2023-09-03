@@ -28,7 +28,7 @@ const aboutMe = {
       mobile: ["Android", "IOS"],
       other: ["Git/Github", "Agile", "npm", "Figma","Adobe XD"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["new grads, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
