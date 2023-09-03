@@ -24,7 +24,7 @@ const aboutMe = {
          java: ["Spring"],
          js: ["Node", "Express"],
       },
-      databases: ["MongoDB","mySQL","MsSQL"],
+      databases: ["MongoDB","mySQL","MsSQL","OracleDB"],
       mobile: ["Android", "IOS"],
       other: ["Git/Github", "Agile", "npm", "Figma","Adobe XD"]
    },
