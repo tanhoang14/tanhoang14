@@ -7,7 +7,7 @@
 
 <p><em>A bachelor student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science.😊</br>
 </em></p>
-![image](https://github.com/tanhoang14/tanhoang14/assets/89440534/22cd6736-be4e-489c-8285-a467994d65ab)
+![image](https://github.com/tanhoang14/tanhoang14/assets/89440534/fdcf9c6b-26fe-454c-84c0-4009e2223d75)
 
 ```javascript
 const aboutMe = {
