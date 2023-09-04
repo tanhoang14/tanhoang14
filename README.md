@@ -3,7 +3,7 @@
 <img align='right' src="https://https://media.giphy.com/media/L3ESyQ5pFUlHxdrMwh/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
-
+<img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndlemZhMjZqOTI5Ym9lZ2I0NmNnZ2IzeWs1a25pdHRoMnU3OGw1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif">
 
 <p><em>A bachelor student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science.😊</br>
 </em></p>
@@ -36,8 +36,12 @@ const aboutMe = {
 <h2> :tongue: Top langs :tongue:</h2>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanhoang14&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+<h2>😫 Leetcode stats😫 </h2>
+
+![](https://leetcard.tanhoang14.cool/leetcode?site=cn)
 <h2>💻 Some stats 💻</h2>
 
-
+<img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
 ---
 
