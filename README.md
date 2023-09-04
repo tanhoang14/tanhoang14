@@ -43,6 +43,9 @@ const aboutMe = {
 
 <h2>💻 Some stats 💻</h2>
 
-<img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanhoang14&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<img src="https://komarev.com/ghpvc/?username=tanhoang14&color=blue">
 ---
 
