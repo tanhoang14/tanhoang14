@@ -37,7 +37,7 @@ const aboutMe = {
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanhoang14&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 <h2>💻 Some stats 💻</h2>
 
-<img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
+<img src="https://komarev.com/ghpvc/?username=tanhoang14&color=blue">
 ---
 
 
