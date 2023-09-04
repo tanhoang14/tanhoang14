@@ -12,7 +12,8 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him", 
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, C#, C++],
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+, C++],
    technologies: {
       frontEnd: {
          js: ["React","VueJS"],
@@ -38,7 +39,6 @@ const aboutMe = {
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanhoang14&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 <h2>💻 Some stats 💻</h2>
 
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 ---
 
