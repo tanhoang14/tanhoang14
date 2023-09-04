@@ -8,8 +8,6 @@
 <p><em>A bachelor student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science.😊</br>
 </em></p>
 
-<img align="right" alt="Coding" width="230" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img align="right" alt="Coding" width="230" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him", 
