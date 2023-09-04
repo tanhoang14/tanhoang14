@@ -3,11 +3,11 @@
 
 
 <h3> 👨🏻•💻 About Me </h3>
+![image](https://github.com/tanhoang14/tanhoang14/assets/89440534/15ac59ae-ba6c-4968-8870-520a529fecdd)
 
 
 <p><em>A bachelor student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science.😊</br>
 </em></p>
-![image](https://github.com/tanhoang14/tanhoang14/assets/89440534/fdcf9c6b-26fe-454c-84c0-4009e2223d75)
 
 ```javascript
 const aboutMe = {
