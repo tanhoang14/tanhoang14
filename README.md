@@ -3,7 +3,6 @@
 
 
 <h3> 👨🏻•💻 About Me </h3>
-![image](https://github.com/tanhoang14/tanhoang14/assets/89440534/15ac59ae-ba6c-4968-8870-520a529fecdd)
 
 
 <p><em>A bachelor student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science.😊</br>
