@@ -7,7 +7,8 @@
 
 <p><em>A bachelor student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science.😊</br>
 </em></p>
-
+<a href=https://www.linkedin.com/in/duc-tan-hoang-97a70a195/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
+<img src="https://komarev.com/ghpvc/?username=tanhoang14&color=blue">
 
 ```javascript
 const aboutMe = {
@@ -33,19 +34,16 @@ const aboutMe = {
 };
 ```
 </br></br>
-<h2> :tongue: Top langs :tongue:</h2>
+
+<h2>💻 Github stats 💻</h2>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanhoang14&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanhoang14&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 
 <h2>😫 Leetcode stats😫 </h2>
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/tanhoang14?theme=dark&font=source_code_pro&extension=null)
-
-<h2>💻 Some stats 💻</h2>
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanhoang14&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<img src="https://komarev.com/ghpvc/?username=tanhoang14&color=blue">
 ---
 
