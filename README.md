@@ -8,6 +8,8 @@
 <p><em>A bachelor student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science.😊</br>
 </em></p>
 
+![image](https://github.com/tanhoang14/tanhoang14/assets/89440534/1fd5e2c2-0f9f-4cbb-9eda-d86b0826c3ab)
+
 
 ```javascript
 const aboutMe = {
@@ -38,7 +40,6 @@ const aboutMe = {
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanhoang14&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 <h2>💻 Some stats 💻</h2>
 
-![image](https://github.com/tanhoang14/tanhoang14/assets/89440534/1fd5e2c2-0f9f-4cbb-9eda-d86b0826c3ab)
 
 ---
 
