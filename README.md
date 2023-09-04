@@ -12,8 +12,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him", 
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-, C++],
+   code: [C#,Javascript, Typescript, HTML, CSS, Python, Java, C/C++],
    technologies: {
       frontEnd: {
          js: ["React","VueJS"],
