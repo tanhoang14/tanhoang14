@@ -8,7 +8,7 @@
 <p><em>A bachelor student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science.😊</br>
 </em></p>
 
-
+<img align="right" alt="Coding" width="230" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```javascript
 const aboutMe = {
