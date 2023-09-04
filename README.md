@@ -39,7 +39,8 @@ const aboutMe = {
 
 <h2>😫 Leetcode stats😫 </h2>
 
-![](https://leetcard.tanhoang14.cool/leetcode?site=cn)
+![LeetCode Stats](https://leetcode.card.workers.dev/tanhoang14?theme=dark&font=source_code_pro&extension=null)
+
 <h2>💻 Some stats 💻</h2>
 
 <img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
