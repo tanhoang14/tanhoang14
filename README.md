@@ -1,16 +1,18 @@
 ### Hi there 👋<h2> I'm Tan</h2>
 
-
+<img align='right' src="https://https://media.giphy.com/media/L3ESyQ5pFUlHxdrMwh/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
 
 <p><em>A bachelor student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science.😊</br>
 </em></p>
+
+
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him", 
-   code: [C#,Javascript, Typescript, HTML, CSS, Python, Java, C/C++],
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, C#, C++],
    technologies: {
       frontEnd: {
          js: ["React","VueJS"],
@@ -37,7 +39,5 @@ const aboutMe = {
 <h2>💻 Some stats 💻</h2>
 
 
-<img src="https://komarev.com/ghpvc/?username=tanhoang14&color=blue">
 ---
-
 
