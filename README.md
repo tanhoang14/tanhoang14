@@ -29,7 +29,7 @@ const aboutMe = {
       other: ["Git/Github", "Agile", "npm", "Figma","Adobe XD"]
    },
    currentOccupation: ["new grads, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   challenge: "I'm working towards being able to run a marathon .",
 };
 ```
 </br></br>
