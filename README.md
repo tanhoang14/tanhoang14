@@ -20,7 +20,7 @@ const aboutMe = {
          css: ["SCSS", "TailWind", "Bootstrap", "Material UI", "Semantic UI", Styled Components]
       },
       backEnd: {
-         c#:["ASP.NET"],
+         c#:["ASP.NET, .DOTNET CORE, RAZOR PAGE"],
          java: ["Spring"],
          js: ["Node", "Express"],
       },
