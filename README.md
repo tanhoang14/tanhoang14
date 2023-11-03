@@ -17,7 +17,7 @@ const aboutMe = {
       frontEnd: {
          js: ["React","VueJS"],
          framework:["NextJs","NuxtJs"],
-         css: ["SCSS", " TailWind", "Bootstrap", "Material UI", "Semantic UI", Styled Components]
+         css: ["SCSS", "TailWind", "Bootstrap", "Material UI", "Semantic UI", Styled Components]
       },
       backEnd: {
          c#:["ASP.NET, .DOTNET CORE, RAZOR PAGE"],
