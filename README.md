@@ -3,7 +3,8 @@
 <img align='right' src="https://https://media.giphy.com/media/L3ESyQ5pFUlHxdrMwh/giphy.gif" width="230">
 
 <h3> 👨🏻 About Me </h3>
-<h4>Former student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science. I love programming as it help me to meet a lot of great people 😊</br></h4>
+<h4>Former student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science. I love programming because it’s helped me meet a lot of great people.
+ 😊</br></h4>
 
 <div style="display:flex; flex-direction:column">
    <a href=https://www.linkedin.com/in/duc-tan-hoang-97a70a195/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img    src="https://komarev.com/ghpvc/?username=tanhoang14&color=blue">
@@ -35,6 +36,7 @@ const codingIsFun = {
 ```
 <h2>💻 Github stats 💻</h2>
 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanhoang14&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanhoang14&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
@@ -43,3 +45,6 @@ const codingIsFun = {
 ![LeetCode Stats](https://leetcode.card.workers.dev/tanhoang14?theme=dark&font=source_code_pro&extension=null)
 ---
 
+> Thanks for visiting.  
+> Run: `follow --user <yourname>` to stay updated 💻
+</p>
