@@ -3,7 +3,7 @@
 <img align='right' src="https://https://media.giphy.com/media/L3ESyQ5pFUlHxdrMwh/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
-<img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndlemZhMjZqOTI5Ym9lZ2I0NmNnZ2IzeWs1a25pdHRoMnU3OGw1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align="center" alt="Coding" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 
 <p><em>A bachelor student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science.😊</br>
 </em></p>
@@ -28,7 +28,6 @@ const aboutMe = {
       mobile: ["Android", "IOS"],
       other: ["Git/Github", "Agile", "npm", "Figma","Adobe XD"]
    },
-   currentOccupation: ["new grads, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
