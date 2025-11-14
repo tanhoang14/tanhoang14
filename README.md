@@ -46,5 +46,5 @@ const codingIsFun = {
 ---
 
 > Thanks for visiting.  
-> Run: `follow --user <yourname>` to stay updated 💻
+> Run: `follow --user <tanhoang14>` to stay updated 💻
 </p>
