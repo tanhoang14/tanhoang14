@@ -5,10 +5,17 @@
 <h3> 👨🏻 About Me </h3>
 <h4>Former student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science. 
  I love programming because it’s helped me meet a lot of great people.
- 😊</br></h4>
-
+ 😊</br>
+</h4>
+<p><em>Software Enginner at <a href="https://www.kitsap.gov/">Kitsap County</a>
+</br>
+ 
 <div style="display:flex; flex-direction:column">
-   <a href=https://www.linkedin.com/in/duc-tan-hoang-97a70a195/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img    src="https://komarev.com/ghpvc/?username=tanhoang14&color=blue">
+   <a href=https://www.linkedin.com/in/duc-tan-hoang-97a70a195/> 
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> 
+   </a> 
+   <img src="https://komarev.com/ghpvc/?username=tanhoang14&color=blue">
+   <img src="https://img.shields.io/github/followers/tanhoang14?label=follow&style=social"> 
 <img align="center" alt="Coding" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 </div>
 
