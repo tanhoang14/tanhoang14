@@ -7,7 +7,7 @@
  I love programming because it’s helped me meet a lot of great people.
  😊</br>
 </h4>
-<p><em>Software Enginner at <a href="https://www.kitsap.gov/">Kitsap County</a>
+<p><b>Current Occupation: </b><em>Software Enginner at <a href="https://www.kitsap.gov/">Kitsap County</a>
 </br>
  
 <div style="display:flex; flex-direction:column">
@@ -42,7 +42,7 @@ const codingIsFun = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
-<h2>💻 Github stats 💻</h2>
+<h2>💻 Github stats</h2>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanhoang14&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
