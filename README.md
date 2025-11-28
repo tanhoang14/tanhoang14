@@ -37,7 +37,7 @@ const codingIsFun = {
       },
       databases: ["MongoDB","mySQL","MsSQL","OracleDB"],
       mobile: ["Android", "IOS"],
-      other: ["Git/Github", "Agile", "npm", "Figma","Adobe XD"]
+      other: ["Git/Github","Docker","Agile", "npm", "Figma","Adobe XD"]
    },
    challenge: "I'm working towards being able to run a marathon.",
 };
