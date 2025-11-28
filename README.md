@@ -27,7 +27,7 @@ const codingIsFun = {
    technologies: {
       frontEnd: {
          js: ["React","VueJS"],
-         framework:["NextJs","NuxtJs"],
+         framework:["NextJs","Blazor"],
          css: ["SCSS", "TailWind", "Bootstrap", "Material UI", "Semantic UI", Styled Components]
       },
       backEnd: {
