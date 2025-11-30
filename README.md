@@ -23,7 +23,7 @@
 
 ```javascript
 const codingIsFun = {
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, C#, C++],
+   languages: [Javascript, Typescript, HTML, CSS, Python, Java, C#, C++],
    technologies: {
       frontEnd: {
          js: ["React","VueJS"],
