@@ -39,7 +39,7 @@ const codingIsFun = {
       mobile: ["Android", "IOS"],
       other: ["Git/Github","Docker","Agile", "npm", "Figma","Adobe XD"]
    },
-   challenge: "I'm working towards being able to run a marathon.",
+   challenge: "I'm working hard everyday to become a better developer.",
 };
 ```
 <h2>💻 Github stats</h2>
