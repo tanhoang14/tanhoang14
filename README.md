@@ -39,6 +39,7 @@ const codingIsFun = {
       mobile: ["Android", "IOS"],
       other: ["Git/Github","Docker","Agile", "npm", "Figma","Adobe XD"]
    },
+    hobbies: "play games, listen to musics, and watch movies",
    challenge: "I'm working hard everyday to become a better developer.",
 };
 ```
