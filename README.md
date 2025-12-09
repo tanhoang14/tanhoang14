@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Tan</h2>
+### Hi there. Nice to meet you👋<h2> I'm Tan</h2>
 
 <img align='right' src="https://https://media.giphy.com/media/L3ESyQ5pFUlHxdrMwh/giphy.gif" width="230">
 
