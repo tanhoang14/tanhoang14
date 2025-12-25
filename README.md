@@ -3,7 +3,7 @@
 <img align='right' src="https://https://media.giphy.com/media/L3ESyQ5pFUlHxdrMwh/giphy.gif" width="230">
 
 <h3> 👨🏻 About Me </h3>
-<h4>Former student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science. 
+<h4>Former student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science
  I love programming because it’s helped me meet a lot of great people.
  😊</br>
 </h4>
