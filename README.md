@@ -4,7 +4,7 @@
 
 <h3> 👨🏻 About Me </h3>
 <h4>Former student at <a href="https://www.sjsu.edu/">San Jose State University</a>, majoring in Computer Science.
- I love programming because it’s helped me meet a lot of great people.
+ I love programming because it’s helped me meet a lot of great people
  😊</br>
 </h4>
 <p><b>Current Occupation: </b><em>Software Enginner at <a href="https://www.kitsap.gov/">Kitsap County</a>
